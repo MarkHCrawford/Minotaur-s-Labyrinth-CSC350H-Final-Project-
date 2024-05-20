@@ -23,5 +23,6 @@ For: CSC350H, Professor Tang
 [craftpix.net](craftpix.net)
 
 ## Project Demo:
-[YouTube](https://studio.youtube.com/video/L6rv7OpKSZU/edit)
+[YouTube](https://www.youtube.com/watch?v=L6rv7OpKSZU)  
+
 [Slides](https://docs.google.com/presentation/d/1CwQYDg6b2wwwOs2UEOYwxkLLYOKMRHWmxJtegLmdnJc/edit?usp=sharing)
